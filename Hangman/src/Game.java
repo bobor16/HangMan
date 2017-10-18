@@ -10,6 +10,7 @@ public class Game {
         this.answer = answer.toLowerCase();
         hits = "";
         misses = "";
+        
     }
 
     public String getAnswer() {
